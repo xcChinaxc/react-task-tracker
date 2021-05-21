@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Go grocery shopping",
+      "day": "Tomorrow",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Trash Pick-Up - Move Cans!",
+      "day": "Sunday @ 3PM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Call Parents",
+      "day": "Monday, May 23",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Order flea treatment for Libs & Thrax",
+      "day": "June 4",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Watch new season of Castlevania",
+      "day": "ASAP",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
